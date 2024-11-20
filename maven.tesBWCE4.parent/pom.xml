@@ -13,5 +13,6 @@
 	</parent>
 
 	<modules>
-	</modules>
+	<module>../maven.mc-tesBWCE4.parent</module>
+    </modules>
 </project>
